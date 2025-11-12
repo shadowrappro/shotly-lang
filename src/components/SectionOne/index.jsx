@@ -19,7 +19,7 @@ function index() {
       })
       .catch((err) => console.log(err))
       .finally(() => setLoading(false));
-  }, lang);
+  }, [lang]);
   return (
     <div className={styles.mainContainer}>
       <div className={styles.container}>
@@ -31,9 +31,11 @@ function index() {
         <span className={styles.blueLine}></span>
 
         <div className={styles.cards}>
-          <div className={loading ? `hidden` : ''}>
+          <div className={loading ? `hidden` : ""}>
             <ul className={styles.carList}>
               {data.map((item, index) => {
+                console.log(item.id);
+
                 return (
                   <li
                     className={`${styles.cardLi} mt-[${temMargin}px]`}
