@@ -1,0 +1,162 @@
+{
+  "uz": {
+    "Header": {
+      "features": "Xususiyatlar",
+      "pricing": "Narxlar",
+      "resources": "Manbalar",
+      "login": "Kirish",
+      "signUp": "Ro‘yxatdan o‘tish"
+    },
+    "Hero": {
+      "title": "Faqat qisqa havolalardan ko‘proq narsa",
+      "text": "Brendingizni tanitishni kuchaytiring va havolalaringiz qanday ishlayotganini batafsil tahlil qiling.",
+      "button": "Boshlash"
+    },
+    "statistcs": {
+      "title": "Rivojlangan Statistikalar",
+      "text": "Havolalaringizning internetda qanday ishlayotganini rivojlangan statistikalar paneli yordamida kuzatib boring."
+    },
+    "Boost": {
+      "title": "Bugun havolalaringizni kuchaytiring",
+      "button": "Boshlash"
+    },
+    "Footer": {
+      "Features": {
+        "linkShortening": "Havolalarni qisqartirish",
+        "brandedLinks": "Brendlangan havolalar",
+        "analytics": "Tahlillar"
+      },
+      "Resources": {
+        "blog": "Blog",
+        "developers": "Dasturchilar",
+        "support": "Qo‘llab-quvvatlash"
+      },
+      "Company": {
+        "about": "Biz haqimizda",
+        "ourTeam": "Jamoamiz",
+        "careers": "Karyera",
+        "contact": "Bog‘lanish"
+      }
+    }
+  },
+  "ru": {
+    "Header": {
+      "features": "Функции",
+      "pricing": "Цены",
+      "resources": "Ресурсы",
+      "login": "Войти",
+      "signUp": "Зарегистрироваться"
+    },
+    "Hero": {
+      "title": "Больше, чем просто короткие ссылки",
+      "text": "Укрепляйте узнаваемость вашего бренда и получайте подробную аналитику о том, как работают ваши ссылки.",
+      "button": "Начать"
+    },
+    "statistcs": {
+      "title": "Расширенная статистика",
+      "text": "Отслеживайте, как работают ваши ссылки в интернете, с помощью нашей панели расширенной статистики."
+    },
+    "Boost": {
+      "title": "Увеличьте свои ссылки сегодня",
+      "button": "Начать"
+    },
+    "Footer": {
+      "Features": {
+        "linkShortening": "Сокращение ссылок",
+        "brandedLinks": "Брендированные ссылки",
+        "analytics": "Аналитика"
+      },
+      "Resources": {
+        "blog": "Блог",
+        "developers": "Разработчики",
+        "support": "Поддержка"
+      },
+      "Company": {
+        "about": "О компании",
+        "ourTeam": "Наша команда",
+        "careers": "Карьера",
+        "contact": "Контакты"
+      }
+    }
+  },
+  "en": {
+    "Header": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "resources": "Resources",
+      "login": "Login",
+      "signUp": "Sign Up"
+    },
+    "Hero": {
+      "title": "More than just shorter links",
+      "text": "Build your brand’s recognition and get detailed insights on how your links are performing.",
+      "button": "Get Started"
+    },
+    "statistcs": {
+      "title": "Advanced Statistics",
+      "text": "Track how your links are performing across the web with our advanced statistics dashboard."
+    },
+    "Boost": {
+      "title": "Boost your links today",
+      "button": "Get Started"
+    },
+    "Footer": {
+      "Features": {
+        "linkShortening": "Link Shortening",
+        "brandedLinks": "Branded Links",
+        "analytics": "Analiytcs"
+      },
+      "Resources": {
+        "blog": "Blog",
+        "developers": "Developers",
+        "support": "Support"
+      },
+      "Company": {
+        "about": "About",
+        "ourTeam": "Our Team",
+        "careers": "Careers",
+        "contact": "Contact"
+      }
+    }
+  },
+  "ko": {
+    "Header": {
+      "features": "기능",
+      "pricing": "가격",
+      "resources": "자료",
+      "login": "로그인",
+      "signUp": "회원가입"
+    },
+    "Hero": {
+      "title": "단순한 짧은 링크 그 이상",
+      "text": "브랜드 인지도를 높이고 링크 성과에 대한 자세한 통계를 확인하세요.",
+      "button": "시작하기"
+    },
+    "statistcs": {
+      "title": "고급 통계",
+      "text": "고급 통계 대시보드를 통해 웹에서 링크 성과를 추적하세요."
+    },
+    "Boost": {
+      "title": "오늘 링크를 강화하세요",
+      "button": "시작하기"
+    },
+    "Footer": {
+      "Features": {
+        "linkShortening": "링크 단축",
+        "brandedLinks": "브랜드 링크",
+        "analytics": "분석"
+      },
+      "Resources": {
+        "blog": "블로그",
+        "developers": "개발자",
+        "support": "지원"
+      },
+      "Company": {
+        "about": "회사 소개",
+        "ourTeam": "팀 소개",
+        "careers": "채용",
+        "contact": "연락처"
+      }
+    }
+  }
+}

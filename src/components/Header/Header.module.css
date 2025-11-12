@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  width: 100%;
+  max-width: 1108px;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.linktwo {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+
+.links {
+  color: gray;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.links:hover {
+  color: #2bd0d0;
+  transition: 0.3s ease;
+}
+
+.signUp {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #2bd0d0;
+  border: #2bd0d0 3px solid;
+  padding: 9px 24px;
+  border-radius: 32px;
+}
+
+.signUp:hover {
+  background-color: white;
+  color: #2bd0d0;
+  transition: 0.4s ease;
+}

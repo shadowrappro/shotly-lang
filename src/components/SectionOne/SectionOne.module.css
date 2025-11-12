@@ -1,0 +1,64 @@
+.container {
+  padding-top: 204px;
+  display: flex;
+  width: 100%;
+  max-width: 1108px;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 120px;
+  margin-top: 100px;
+}
+.mainContainer {
+  background-color: rgb(221, 221, 221);
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+.text {
+  color: #9e9aa8;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: 0.12px;
+  width: 540px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: 60px;
+}
+
+.carList {
+  display: flex;
+}
+
+.cardsImg {
+  padding: 24px;
+  background-color: #3a3054;
+  border-radius: 50%;
+  margin-top: -70px;
+  margin-bottom: 33px;
+}
+
+.cardLi {
+  margin-left: 30px;
+  height: 290px;
+  border-radius: 5px;
+  width: 350px;
+  padding: 24px 32px;
+  background-color: white;
+}
+
+.cardTitle {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 100%;
+    margin-bottom: 12px;
+}

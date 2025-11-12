@@ -1,0 +1,42 @@
+.container {
+  background-image: url("./boost.svg");
+}
+.boostContainer {
+  padding: 57px 0px;
+  display: flex;
+}
+
+.boostTitle {
+  padding-top: 57px;
+  font-weight: 700;
+  font-size: 40px;
+  color: white;
+  line-height: 48px;
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+.boostButton {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #2bd0d0;
+  border: #2bd0d0 3px solid;
+  padding: 9px 24px;
+  border-radius: 32px;
+  margin-top: 38px;
+}
+
+.boostButton:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #2bd0d0;
+  transition: 0.4s ease;
+}
+
+.boosContent {
+  padding-bottom: 57px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
